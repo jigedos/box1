@@ -1,5 +1,5 @@
 {"sites": [
-{"key":"js_豆瓣热播","name":"🏘️主页┃豆瓣推荐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/豆瓣.js"},
+{"key":"js_豆瓣热播","name":"🏘️JG整理┃豆瓣推荐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/豆瓣.js"},
 {"key":"sp_Ae","name":"🍎影视┃小苹果","type" : 3,"api" : "csp_Dora", "jar": "http://8.210.220.114:8888/down/7Oy94pL2e9Sk.jar;md5;4da8597cb30a855eda0a3539e5b645a0","ext":"6deed4548c44b18d268a5d828f04d86e","playerType":1},
 {"key":"Sp_Tu","name":"🐰影视┃Tutu","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://8.210.220.114:8888/down/7Oy94pL2e9Sk.jar;md5;4da8597cb30a855eda0a3539e5b645a0"}, 
 {"key":"sp_Nm","name":"🌾影视┃农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://8.210.220.114:8888/down/dvgYVql5wrjp.json"},
