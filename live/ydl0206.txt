@@ -1,3 +1,4 @@
+0206更新,#genre#
 大陆央视,#genre#
 CCTV1,P2p://generationnexxxt.com:19806/63dc91e10002ffda776e6e564b332ab8
 CCTV2,P2p://generationnexxxt.com:19806/4bba9f6fbf9b4b73816cb6cb81bf82b0
