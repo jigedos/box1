@@ -16,7 +16,7 @@
     
     {
       "key": "SPIQY",
-      "name": "🦜爱奇艺",
+      "name": "爱奇艺",
       "type": 3,
       "api": "csp_IQIYI",
       "searchable": 1,
@@ -49,7 +49,7 @@
    
     {
        "key": "csp_XYQBiu_虎牙",
-       "name": "🐯虎牙(XYQ)",
+       "name": "虎牙",
        "type": 3,"api": "csp_XYQBiu",
        "searchable": 0,
        "quickSearch": 0,
@@ -100,7 +100,7 @@
 
   {
    "key": "dr_88看球",
-   "name": "88看球(",
+   "name": "88看球",
    "type": 3,
    "api": "https://agit.ai/fangzimo/dr_py/raw/branch/master/libs/drpy.min.js",
    "searchable": 0,
