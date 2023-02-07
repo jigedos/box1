@@ -703,7 +703,7 @@ EYE戏剧,P2p://generationnexxxt.com:19806/2dbc9917cd584c609c493dd4c08b4d47
 爱尔达影剧台,P2p://generationnexxxt.com:19806/9094a401f36d4ed487230a5054c39e86
 Hub娱家,P2p://generationnexxxt.com:19806/e05abfe9e4e34973b21b559326944194
 亚洲剧台,P2p://generationnexxxt.com:19806/fe4b431cc32b4ae9b3280fde14c4fa88
-    _6100,#N/A
+    _6100,#genre#
 彩虹e台,P2p://generationnexxxt.com:19806/9a97004e2ba44dbe8c914dbeadee4b2f
 彩虹电影台,P2p://generationnexxxt.com:19806/3ef7a7fd87a449768196614c6433b080
 LOOK TV,P2p://generationnexxxt.com:19806/22344863fe414c439c9308b4aa2c4d3d
@@ -711,10 +711,10 @@ LOOK TV,P2p://generationnexxxt.com:19806/22344863fe414c439c9308b4aa2c4d3d
 惊艳电影台,P2p://generationnexxxt.com:19806/d50084be17bd4adc8857dbd9e9ebbf25
 松视1台,P2p://generationnexxxt.com:19806/036970456a824a099a71595b6baf3921
 松视2台,P2p://generationnexxxt.com:19806/966ca0ffb710420ca2544fd6cdf1097f
-潘朵啦粉虹台,#N/A
+
 PLAYBOY,P2p://generationnexxxt.com:19806/082597a99d8247a3a791f44314cdb233
 香蕉台,P2p://generationnexxxt.com:19806/7523ece4707041c3a7aeb64c26aec183
-HOT,#N/A
+
 松视3台,P2p://generationnexxxt.com:19806/b8f8ad4e4b8847b289491374ddebe9fd
 JStar极限台,P2p://generationnexxxt.com:19806/3dae125a616947bfbfbbb303f9223f64
 HAPPY,P2p://generationnexxxt.com:19806/56b9936bf2284a8c8ba7717b0f2cbe24
