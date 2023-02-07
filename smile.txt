@@ -46,50 +46,7 @@
     {"key":"LiteApple","name":"苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
 
  
-       {       
-        "key": "学堂1",
-        "name": "🎰儿童乐园",
-        "type": 3,
-        "api": "csp_Bili",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 1,
-        "ext": "https://agit.ai/fangzimo/TVBox/raw/branch/main/MaooXP/儿童乐园.json",
-        "jar":"https://agit.ai/fangzimo/TVBox/raw/branch/main/1008.jar"
-        },
-{       
-        "key": "学堂2",
-        "name": "🥇小学学习",
-        "type": 3,
-        "api": "csp_Bili",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 1,
-        "ext": "https://agit.ai/fangzimo/TVBox/raw/branch/main/MaooXP/小学学习.json",
-        "jar":"https://agit.ai/fangzimo/TVBox/raw/branch/main/1008.jar"
-    },
-    {  
-        "key": "学堂3",
-        "name": "🥈初中学习",
-        "type": 3,
-        "api": "csp_Bili",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 1,
-        "ext": "https://agit.ai/fangzimo/TVBox/raw/branch/main/MaooXP/初中学习.json",
-        "jar":"https://agit.ai/fangzimo/TVBox/raw/branch/main/1008.jar"
-    },
-    {
-        "key": "学堂4",
-        "name": "🥉高中学习",
-        "type": 3,
-        "api": "csp_Bili",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 1,
-        "ext": "https://agit.ai/fangzimo/TVBox/raw/branch/main/MaooXP/高中学习.json",
-        "jar":"https://agit.ai/fangzimo/TVBox/raw/branch/main/1008.jar"
-    },
+   
     {
        "key": "csp_XYQBiu_虎牙",
        "name": "🐯虎牙(XYQ)",
@@ -161,6 +118,50 @@
    "filterable": 1,
    "ext": "https://agit.ai/fangzimo/dr_py/raw/branch/master/js/哔嘀影视.js"
   },
+      {       
+        "key": "学堂1",
+        "name": "🎰儿童乐园",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 1,
+        "ext": "https://agit.ai/fangzimo/TVBox/raw/branch/main/MaooXP/儿童乐园.json",
+        "jar":"https://agit.ai/fangzimo/TVBox/raw/branch/main/1008.jar"
+        },
+{       
+        "key": "学堂2",
+        "name": "🥇小学学习",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 1,
+        "ext": "https://agit.ai/fangzimo/TVBox/raw/branch/main/MaooXP/小学学习.json",
+        "jar":"https://agit.ai/fangzimo/TVBox/raw/branch/main/1008.jar"
+    },
+    {  
+        "key": "学堂3",
+        "name": "🥈初中学习",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 1,
+        "ext": "https://agit.ai/fangzimo/TVBox/raw/branch/main/MaooXP/初中学习.json",
+        "jar":"https://agit.ai/fangzimo/TVBox/raw/branch/main/1008.jar"
+    },
+    {
+        "key": "学堂4",
+        "name": "🥉高中学习",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 1,
+        "ext": "https://agit.ai/fangzimo/TVBox/raw/branch/main/MaooXP/高中学习.json",
+        "jar":"https://agit.ai/fangzimo/TVBox/raw/branch/main/1008.jar"
+    },
    {
    "key": "dr_海盗听书",
    "name": "海盗听书",
