@@ -86,26 +86,7 @@
             "filterable": 1,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/nmys.json"
         },
-        {
-            "key": "csp_AppTT",
-            "name": "图图(SP)",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
-        },
-        {
-            "key": "csp_Lgyy",
-            "name": "蓝光影院(SP)",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+ 
         {
             "key": "Bttoo",
             "name": "Bttoo(SP)",
@@ -115,25 +96,7 @@
             "quickSearch": 1,
             "searchable": 1
         },
-        {
-            "key": "低端",
-            "name": "低端(SP)",
-            "api": "csp_Ddrk",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "click": "ddys.tv;#vjsp > button"
-        },
-        {
-            "key": "zxzj",
-            "name": "在线(SP)",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+       
         {
             "key": "追剧喵",
             "name": "追剧喵(SP)",
@@ -161,18 +124,10 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_Lib",
-            "name": "Lib(SP)",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+       
         {
             "key": "csp_auete",
-            "name": "auete(SP)",
+            "name": "Auete(SP)",
             "type": 3,
             "api": "csp_Auete",
             "searchable": 1,
@@ -188,28 +143,8 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_XBiu_1080ys",
-            "name": "1080影视(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://1080p.tv/vodtype/2/id/{cateId}.html",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
-        },
-        {
-            "key": "csp_XBiu_cokemv",
-            "name": "cokemv(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
-        },
+       
+        
         {
             "key": "csp_xbpq_子子影视",
             "name": "子子影视(XBPQ)",
@@ -230,17 +165,7 @@
             "filterable": 0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/胖虎影视.json"
         },
-        {
-            "key": "csp_XYQBiu_神马影视",
-            "name": "神马影视(XYQ)",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/神马XYQ.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
-        },
+     
         {
             "key": "csp_XYQBiu_大米星球",
             "name": "大米星球(XYQ)",
@@ -252,17 +177,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/大米XYQ.json",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
         },
-        {
-            "key": "csp_XYQBiu_虎牙直播",
-            "name": "虎牙直播(XYQ)",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/虎牙XYQ.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_0926.jar;md5;5555084b40f00191957d9aede81ecb5f"
-        },
+       
         {
             "key": "csp_XYQBiu_斗鱼直播",
             "name": "斗鱼直播(XYQ)",
@@ -274,27 +189,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/斗鱼XYQ.json",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
         },
-        {
-            "key": "csp_xpath_qiumi",
-            "name": "球迷直播",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/qiumi.json"
-        },
-        {
-            "key": "csp_XYQHiker_17zhibo",
-            "name": "17k直播(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/17k直播.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
-        },
+      
         {
             "key": "在线直播",
             "name": "在线直播(SP)",
@@ -304,18 +199,7 @@
             "quickSearch": 0,
             "filterable": 1
         },
-        {
-            "key": "Gitcafe",
-            "name": "小纸条",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "playerType": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
-            "ext": "http://upup.run.goorm.io/token.txt;asc"
-        },
+        
         {
             "key": "找资源",
             "name": "找资源",
@@ -393,22 +277,22 @@
             "url": "Sequence"
         },
         {
-            "name": "风起江湖",
+            "name": "解析1",
             "type": 1,
             "url": "http://45.248.10.163:4433/json.php?wap=0&url="
         },
         {
-            "name": "风起洛阳",
+            "name": "解析2",
             "type": 1,
             "url": "https://k.json.icu/home/api?type=ys&uid=12406929&key=adgouwyCGIRSTUV046&url="
         },
        {
-            "name": "风起0",
+            "name": "解析3",
             "type": 1,
             "url": "http://47.108.39.237:55/api/?key=01g4LZuWQpF9pLfWRX&url="
         },
         {
-            "name": "风起清河",
+            "name": "解析4",
             "type": 1,
             "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url=",
             "ext": {
@@ -435,12 +319,12 @@
             }
         },
         {
-            "name": "风起容县",
+            "name": "解析5",
             "type": 1,
             "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
         },
         {
-            "name": "风起吴郡",
+            "name": "解析6",
             "type": 1,
             "url": "http://pandown.pro/app/kxjx.php?url=",
             "ext": {
@@ -468,7 +352,7 @@
             }
         },
         {
-            "name": "风起陈留",
+            "name": "解析7",
             "type": 1,
             "url": "http://pandown.pro/app/ysmjx.php?url=",
             "ext": {
@@ -490,42 +374,42 @@
             }
         },
         {
-            "name": "风起陇西1",
+            "name": "解析8",
             "type": 0,
             "url": "https://hxys.tv/bfq/?url="
         },
         {
-            "name": "风起长林2",
+            "name": "解析9",
             "type": 1,
             "url": "https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url="
         },
         {
-            "name": "风起长林3",
+            "name": "解析11",
             "type": 1,
             "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
         },
         {
-            "name": "风起苍岚",
+            "name": "解析12",
             "type": 0,
             "url": "https://play.fositv.com/?url="
         },
         {
-            "name": "风起边临",
+            "name": "解析13",
             "type": 1,
             "url": "https://rx.bt5v.com/json/jsonindex.php/?url="
         },
         {
-            "name": "风起天阑",
+            "name": "解析14",
             "type": 0,
             "url": "https://jx.zhanlangbu.com/?url="
         },
         {
-            "name": "风起朔方",
+            "name": "解析15",
             "type": 1,
             "url": "https://chaloli.cn/api/?key=5a6158efe376db3b464957c3c11745c2&url="
         },
         {
-            "name": "风起零陵",
+            "name": "解析16",
             "type": 1,
             "url": "https://player.movie09.com/dplayer/?url=",
             "ext": {
@@ -554,22 +438,22 @@
             }
         },
         {
-            "name": "风起蓟州",
+            "name": "解析17",
             "type": 0,
             "url": "https://www.nxflv.com/?url="
         },
         {
-            "name": "风起兖州",
+            "name": "解析18",
             "type": 0,
             "url": "http://jx.gbxy.net.cn/?url="
         },
         {
-            "name": "风起巨鹿",
+            "name": "解析19",
             "type": 0,
             "url": "https://h5.freejson.xyz/player/?url="
         },
         {
-            "name": "风起长垣",
+            "name": "解析20",
             "url": "https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=",
             "type": 1,
             "ext": {
@@ -603,7 +487,7 @@
             }
         },
         {
-            "name": "风起金陵",
+            "name": "解析21",
             "url": "https://jx.bynote.top/API.php?url=",
             "type": 1,
             "ext": {
@@ -637,7 +521,7 @@
             }
         },
         {
-            "name": "风起许都",
+            "name": "解析22",
             "type": 1,
             "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=",
             "ext": {
@@ -672,7 +556,7 @@
             }
         },
         {
-            "name": "风起青州",
+            "name": "解析23",
             "type": 1,
             "url": "http://150.158.175.250:88/parse/sign/6a1ce4c80b891d3b2a417ee19a44c0cf?url=",
             "header": {
@@ -680,7 +564,7 @@
             }
         },
         {
-            "name": "风起兰溪",
+            "name": "解析24",
             "type": 1,
             "url": "http://123.57.56.94:9931/lanlan/?url="
         },
@@ -704,7 +588,7 @@
             }
         },
         {
-            "name": "风起鄞州",
+            "name": "解析25",
             "type": 0,
             "url": "https://jx.bozrc.com:4433/player/?url=",
             "ext": {
@@ -734,17 +618,17 @@
             }
         },
         {
-            "name": "风起沧州",
+            "name": "解析26",
             "type": 1,
             "url": "http://api.ckflv.cn/?url="
         },
         {
-            "name": "风起儋州",
+            "name": "解析27",
             "type": 1,
             "url": "http://jx.vipmv.co/json.php?token=123457&url="
         },
         {
-            "name": "风起并州",
+            "name": "解析28",
             "type": 0,
             "url": "https://okjx.cc/?url="
         }
