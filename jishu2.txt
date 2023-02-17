@@ -50,23 +50,75 @@
 
    	{"key":"csp_kuaikan","name":"快看┃SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"一起看┃SP","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
-	{"key":"csp_xb_lgyy","name":"蓝光影院（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_zbk","name":"真不卡（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_5G","name":"5G（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.91dyy.tv/te/{cateId}-{catePg}.html"},
-{"key":"csp_xb_9sha","name":"9杀（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.9sha.com/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_webdillo","name":"宝仙HD（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://webdillo.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key":"csp_xb_ysgc","name":"影视工厂（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
-{"key":"csp_xb_cokemv","name":"cokemv（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_REPEN","name":"RENPE（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"},
-{"key":"csp_xb_爱看影视","name":"爱看影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"},
-{"key":"csp_xb_达达龟","name":"达达龟（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_shm","name":"神马影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"},
-{"key":"csp_xb_qsp","name":"氢视频（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"},
-{"key":"csp_xb_fg","name":"疯狗影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
-{"key":"csp_xb_huix","name":"回响（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html"},
-{"key":"csp_xb_1080ys","name":"1080影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://1080p.tv/vodshow/{cateId}--------{catePg}---"},
-{"key":"csp_xb_aiku","name":"爱酷影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"},
-
+  {
+      "key": "厂长影视",
+      "name": "️🕵厂长换播放器〔SP〕",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "8ee655f702d0d21f3643504783babbc3",
+      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%8E%82%E9%95%BF.jar"
+    },
+    {
+      "key": "csp_Xinsj",
+      "name": "🐼新视觉〔SP〕",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%96%B0%E8%A7%86%E8%A7%89.jar"
+    },
+    {
+      "key": "csp_xBPQ_爱看影视",
+      "name": "💖爱看影视〔SP〕",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/爱看.json"
+    },
+    {
+      "key": "Lgyy",
+      "name": " 📽 蓝光〔SP〕",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "b2e573ff040fcd54b50475660ee1a7d1",
+      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89.jar"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "✌两个BT〔SP〕",
+      "type": 3,
+      "api": "csp_Bttoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mtv_pc_追剧达人",
+      "name": "🌲图图影视〔SP〕",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "110c922de7d69804467fb83d3bb664b5",
+      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%9B%BE%E5%9B%BE.jar"
+    },
+    {
+      "key" : "drpy_js_348电影",
+      "name" : "📹348电影〔SP〕",
+      "type" : 3,
+      "api" : "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/js依赖/drpy.min.js",
+      "ext" : "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JAR/推荐包jar/348电影网.js"
+    },
     {
       "key": "sliu_spider",
       "name": "石榴电影",
