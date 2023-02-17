@@ -14,7 +14,6 @@
       ]
     }
   ],
-//tg频道 https://t.me/TVBox_local,tg群@tvboxlocal,qq频道:TVBox本地包
   "sites": [
     {
       "key": "360_spider",
@@ -68,7 +67,14 @@
       "searchable": 1,
       "ext": ""
     },
-   
+   	{"key":"csp_kuaikan","name":"快看┃SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_YQKAPP","name":"一起看┃SP","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
+{"key":"csp_AppTT","name":"图图┃SP","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
+{"key":"csp_BuLei","name":"布雷┃SP","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc"},
+{"key":"csp_555","name":"555┃SP","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
+{"key":"csp_Yht","name":"野荷塘┃SP","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
+{"key":"csp_fantuan","name":"饭团┃SP","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
+{"key":"Tian","name":"天天┃SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
     {
       "key": "sliu_spider",
       "name": "石榴电影",
@@ -101,7 +107,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/1343008858/TVBox/raw/branch/master/bili/bili.txt"
+      "ext": "hhttps://codeberg.org/jgfx/gao/raw/branch/master/json/bilibili.json"
     },
     {
       "key": "push_agent",
