@@ -87,7 +87,7 @@
     },
     {
       "key": "youku",
-      "name": "👑优酷不推🗡️(官)",
+      "name": "优酷(备）",
       "type": 0,
       "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
       "searchable": 0,
@@ -142,44 +142,44 @@
     },
     {
       "key": "drpy_js_360影视",
-      "name": "官源|360[js]",
+      "name": "360",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "爱奇艺",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优酷",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾讯",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "芒果",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/百忙无果.js"
     },
     {
       "key": "drpy_js_菜狗",
       "name": "搜狗",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/菜狗.js"
     },
     {
