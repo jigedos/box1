@@ -1,3 +1,6 @@
+//公众号：放学回家看电视
+//资源来自于网络上的大神，仅对失效站点进行了检测去除操作。
+//获取最新有效接口，请关注公众号。
 {
   "spider": "https://codeberg.org/jgfx/box1/raw/branch/main/jar/02.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
