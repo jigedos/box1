@@ -15,16 +15,7 @@
     }
   ],
   "sites": [
-    {
-      "key": "360_spider",
-      "name": "360影视",
-      "api": "csp_SP360",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
+   
     {
       "key": "csp_77",
       "name": "酷云七七",
@@ -56,25 +47,26 @@
       "ext": "http://47.104.99.175"
     },
    
-    {
-      "key": "niketv_spider",
-      "name": "耐客TV",
-      "api": "csp_NikeTV",
-      "type": 3,
-      "filterable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
+
    	{"key":"csp_kuaikan","name":"快看┃SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"一起看┃SP","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
-{"key":"csp_AppTT","name":"图图┃SP","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
-{"key":"csp_BuLei","name":"布雷┃SP","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc"},
-{"key":"csp_555","name":"555┃SP","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
-{"key":"csp_Yht","name":"野荷塘┃SP","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
-{"key":"csp_fantuan","name":"饭团┃SP","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
-{"key":"Tian","name":"天天┃SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
+	{"key":"csp_xb_lgyy","name":"蓝光影院（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_zbk","name":"真不卡（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_5G","name":"5G（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.91dyy.tv/te/{cateId}-{catePg}.html"},
+{"key":"csp_xb_9sha","name":"9杀（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.9sha.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_webdillo","name":"宝仙HD（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://webdillo.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+{"key":"csp_xb_ysgc","name":"影视工厂（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
+{"key":"csp_xb_cokemv","name":"cokemv（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_REPEN","name":"RENPE（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"},
+{"key":"csp_xb_爱看影视","name":"爱看影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"},
+{"key":"csp_xb_达达龟","name":"达达龟（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_shm","name":"神马影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"},
+{"key":"csp_xb_qsp","name":"氢视频（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"},
+{"key":"csp_xb_fg","name":"疯狗影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
+{"key":"csp_xb_huix","name":"回响（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html"},
+{"key":"csp_xb_1080ys","name":"1080影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://1080p.tv/vodshow/{cateId}--------{catePg}---"},
+{"key":"csp_xb_aiku","name":"爱酷影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"},
+
     {
       "key": "sliu_spider",
       "name": "石榴电影",
