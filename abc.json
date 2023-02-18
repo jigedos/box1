@@ -15,16 +15,7 @@
     }
   ],
   "sites": [
-    {
-      "key": "360_spider",
-      "name": "🥎360影视",
-      "api": "csp_SP360",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
+   
     {
       "key": "小苹果",
       "name": "🍎小苹果",
@@ -43,24 +34,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_Auete",
-      "name": "🐼Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Lgyy",
-      "name": "🌀蓝光影视",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ 
     {
       "key": "csp_Bttoo",
       "name": "✌两个BT",
@@ -107,16 +81,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/l/o/raw/branch/o/o/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
     },
-    {
-      "key": "虎牙",
-      "name": "🐯虎牙",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/%E8%99%8E%E7%89%99.json"
-    },
+    
     {
       "key": "网易CC",
       "name": "🐠网易CC",
@@ -296,26 +261,8 @@
       "filterable": 1,
       "ext": "https://agit.ai/l/o/raw/branch/o/o/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
-    {
-      "key": "六度影视",
-      "name": "🍨六度影视",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "csp_biubiu_dadagui",
-      "name": "🐢达达龟",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"
-    },
+
+  
     {
       "key": "花猫影视",
       "name": "🐱花猫影视",
