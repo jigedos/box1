@@ -9,7 +9,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "date": "2023-01-26 00:05:13"
+      "date": "2023-02-19 00:05:13"
     },
     {
       "key": "csp_Kunyu77",
@@ -19,7 +19,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "date": "2023-01-26 00:05:13"
+      "date": "2023-02-19 00:05:13"
     },
    
  
@@ -31,19 +31,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/huigutongying.json",
-      "date": "2023-01-26 00:05:13"
+      "date": "2023-02-19 00:05:13"
     },
-    {
-      "key": "csp_Auete",
-      "name": "🐼Auete〔SP〕",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "date": "2023-01-26 00:05:13"
-    },
- 
+   
    
     {
       "key": "csp_biubiu_骚火电影",
@@ -53,7 +43,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/shdy.json",
-      "date": "2023-01-26 00:05:13"
+      "date": "2023-02-19 00:05:13"
     },
 
   
@@ -66,7 +56,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/lezhutv.json",
-      "date": "2023-01-26 00:05:13"
+      "date": "2023-02-19 00:05:13"
     },
   
    
@@ -78,7 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "date": "2023-01-26 00:05:13"
+      "date": "2023-02-19 00:05:13"
     },
    
  
@@ -90,29 +80,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "date": "2023-01-26 00:05:13"
-    },
-   
-  
-    {
-      "key": "csp_Yj1211",
-      "name": "📽️网红直播(SP)",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "date": "2023-01-26 00:05:13"
-    },
-    {
-      "key": "csp_Anime1",
-      "name": "🌸日本动漫(SP)",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "date": "2023-01-26 00:05:13"
+      "date": "2023-02-19 00:05:13"
     },
 
    
@@ -124,7 +92,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/乐猪影视.json",
-      "date": "2023-01-26 00:05:13"
+      "date": "2023-02-19 00:05:13"
     },
 
     {
@@ -132,7 +100,7 @@
       "name": "🅿本地视频",
       "type": 3,
       "api": "csp_LocalFile",
-      "date": "2023-01-26 00:05:13"
+      "date": "2023-02-19 00:05:13"
     },
     {
       "key": "Yisou",
@@ -142,7 +110,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://神器每日推送.tk/tok.txt",
-      "date": "2023-01-26 00:05:13"
+      "date": "2023-02-19 00:05:13"
     }
   ],
   "wallpaper": "http://www.dmtv.ml/mao/img.php",
@@ -204,25 +172,25 @@
           "User-Agent": "okhttp/4.1.0"
         }
       },
-      "date": "2023-01-26 00:05:08"
+      "date": "2023-02-19 00:05:08"
     },
     {
       "name": "呆萌",
       "type": 1,
       "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url=",
-      "date": "2023-01-26 00:05:08"
+      "date": "2023-02-19 00:05:08"
     },
     {
       "name": "呆萌",
       "type": 1,
       "url": "https://h5.freejson.xyz/player/?url=",
-      "date": "2023-01-26 00:05:08"
+      "date": "2023-02-19 00:05:08"
     },
     {
       "name": "呆萌",
       "type": 1,
       "url": "https://freejx.rx88.top:1234/?url=",
-      "date": "2023-01-26 00:05:08"
+      "date": "2023-02-19 00:05:08"
     },
     {
       "name": "呆萌",
@@ -252,13 +220,13 @@
           "User-Agent": "okhttp/4.1.0"
         }
       },
-      "date": "2023-01-26 00:05:08"
+      "date": "2023-02-19 00:05:08"
     },
     {
       "name": "Dmtv",
       "type": 1,
       "url": "http://www.dmtv.ml/293jx/xg.php?url=",
-      "date": "2023-01-26 00:05:08"
+      "date": "2023-02-19 00:05:08"
     }
   ],
   "flags": [
