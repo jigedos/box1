@@ -1,3 +1,6 @@
+//整理：公众号：放学回家看电视
+//说明：接口来自于网络上多位大神所作，仅对失效站点进行了检测去除操作。
+//更新：获取最新有效接口，请关注公众号。
 {
 	"spider": "https://agit.ai/fangzimo/TVBox/raw/branch/main/custom_spider.jar;md5;d2b53a10e9e3edd1ed99ce6deb18e159",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
@@ -14,16 +17,7 @@
 
   
     
-    {
-      "key": "SPIQY",
-      "name": "爱奇艺",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://agit.ai/fangzimo/TVBox/raw/branch/main/top98.jar"
-    },
+   
  
   {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
     {"key":"Lgyy","name":"蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"},
@@ -32,16 +26,7 @@
     {"key":"Kuaikan","name":"快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
     {"key":"Kunyu77","name":"七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
    {"key":"Dm84","name":"动漫","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"572192a9fe2136041a58e7219a46fb2b"},
-       {
-   "key": "Alist",
-   "name": "Alist1",
-   "type": 3,
-   "api": "https://agit.ai/fangzimo/dr_py/raw/branch/master/libs/alist.min.js",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "https://agit.ai/fangzimo/dr_py/raw/branch/master/txt/json/alist.json;50;video"
-  }, 
+      
     {"key":"Cokemv","name":"可乐","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70"},
     {"key":"LiteApple","name":"苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
 
@@ -57,16 +42,7 @@
        "ext": "https://agit.ai/fangzimo/TVBox/raw/branch/main/MaooXP/虎牙直播.json", 
        "jar":"https://agit.ai/fangzimo/TVBox/raw/branch/main/XYQPlugin_0920.jar"
    },
-     {
-   "key": "dr_斗鱼直播",
-   "name": "斗鱼直播DR",
-   "type": 3,
-   "api": "https://agit.ai/fangzimo/dr_py/raw/branch/master/libs/drpy.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "https://agit.ai/fangzimo/dr_py/raw/branch/master/js/斗鱼直播.js"
-  },
+    
     {
    "key": "dr_爱车MV",
    "name": "MV",
@@ -108,16 +84,7 @@
    "filterable": 0,
    "ext": "https://agit.ai/fangzimo/dr_py/raw/branch/master/js/88看球.js"
   },
-    {
-   "key": "dr_哔嘀影视",
-   "name": "哔嘀影视",
-   "type": 3,
-   "api": "https://agit.ai/fangzimo/dr_py/raw/branch/master/libs/drpy.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 1,
-   "ext": "https://agit.ai/fangzimo/dr_py/raw/branch/master/js/哔嘀影视.js"
-  },
+
       {       
         "key": "学堂1",
         "name": "🎰儿童乐园",
@@ -173,9 +140,7 @@
    "ext": "https://agit.ai/fangzimo/dr_py/raw/branch/master/js/海盗听书.js"
   },
       {"key":"Tbook","name":"听书网","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"d16d1517e9eaad9909cb35c55ba0b784"},
-    {"key":"Bili","name":"哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
-    {"key":"AList","name": "AList2","type": "3","api":"csp_AList","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"}
-
+    {"key":"Bili","name":"哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"}
 ],
 
    "parses":[
