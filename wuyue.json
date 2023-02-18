@@ -1,4 +1,4 @@
-	//本接口修改自网络大神的甜蜜接口，仅对其中的失效部分做了去除，其余的内容保持原汁原味。
+//本接口修改自网络大神的甜蜜接口，仅对其中的失效部分做了去除，其余的内容保持原汁原味。
 //原接口创作者的信息予以保留，以示对原作者的尊重。
 //在此感谢原接口创作者的辛苦付出，如有不妥请与本号联系，当第一时间删除。
 
@@ -78,8 +78,6 @@
       "filterable": 1,
       "date": "2023-01-24 09:20:11"
     },
-  
-  
     {
       "key": "爱奇艺",
       "name": "🐨爱奇艺(SP)",
@@ -100,7 +98,6 @@
       "filterable": 1,
       "jar": "https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"
     },
-   
     {
       "key": "MGT",
       "name": "🍋芒果┃官源",
@@ -163,7 +160,6 @@
       "filterable": 1,
       "jar": "http://52bsj.vip:81/api/v3/file/get/67755/cc.jar?sign=y9cTKxK4BVQsYaQnIXgBXvo_P0F2JrFDVXEm1tFowIA%3D%3A0"
     },
-  
     {
       "key": "csp_XBPQ喵喵影视",
       "name": "🎞️喵喵影视〔XBPQ〕",
@@ -174,7 +170,7 @@
       "filterable": 1,
       "ext": "http://52bsj.vip:81/api/v3/file/get/63301/%E5%96%B5%E5%96%B5%E7%94%B5%E5%BD%B1%28xBPQ%29.json?sign=p_hgRusPwyUAgqE93wuJYsfG6rOhgSaIMuz0OlgUyoc%3D%3A0",
       "jar": "http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"
-  
+    },
     {
       "key": "csp_XBPQ诺讯影视",
       "name": "🎞️诺讯影视〔XBPQ〕",
@@ -186,7 +182,6 @@
       "ext": "http://52bsj.vip:81/api/v3/file/get/61832/%E8%AF%BA%E8%AE%AF%E5%BD%B1%E8%A7%86%28xBPQ%29.json?sign=wIeHY0ecLWBM8KDJXhgrJo_j044uEzz2z6IZtCeR00I%3D%3A0",
       "jar": "http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"
     },
-  
     {
       "key": "csp_apple",
       "name": "🍎苹果┃SP",
@@ -198,7 +193,6 @@
       "filterable": 1,
       "spinder": "./xo.txt;md5;2280df2ef7871c2adf511530141ca78b"
     },
-   
     {
       "key": "BD",
       "name": "吾爱BD",
@@ -222,8 +216,6 @@
         "战争片"
       ]
     },
-  
-   
     {
       "key": "csp_xml___飞速资源",
       "name": "🐝飞速资源",
@@ -260,8 +252,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
-   
-   
     {
       "key": "py_cctv",
       "name": "❤️爱央视（PY)",
@@ -272,7 +262,6 @@
       "filterable": 1,
       "ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_cctv.py"
     },
-   
     {
       "key": "py_cctvjs",
       "name": "央视军事",
@@ -293,7 +282,6 @@
       "filterable": 1,
       "ext": "https://notabug.org/zqk219/yingshicang/raw/master/TVBox_Py/py/py_cctvfz.py"
     },
-  
     {
       "key": "py_cctv_full",
       "name": " 央视大全",
@@ -314,7 +302,6 @@
       "filterable": 1,
       "ext": "https://agit.ai/376242575/py/raw/branch/py/1/py_cctvdy.py"
     },
-   
     {
       "key": "py_cctvyy",
       "name": "央视音乐",
@@ -345,7 +332,6 @@
       "filterable": 1,
       "ext": "https://notabug.org/zqk219/yingshicang/raw/master/TVBox_Py/py/py_cctvzy.py"
     },
- 
     {
       "key": "py_cctvty",
       "name": "央视体育",
@@ -366,8 +352,6 @@
       "filterable": 1,
       "ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_qie.py"
     },
-  
-  
     {
       "key": "csp_Bili相声",
       "name": "相声小品",
@@ -388,7 +372,6 @@
       "filterable": 1,
       "ext": "clan://TVBox/py/plugin/相声小品.py"
     },
-   
     {
       "key": "演唱会",
       "name": "🅱️演唱会",
@@ -410,7 +393,6 @@
       "filterable": 1,
       "ext": "https://notabug.org/zqk219/yingshicang/raw/master/TVBox_Py/py/py_中医药.py"
     },
-  
     {
       "key": " py_中国文化",
       "name": " 中国文化",
@@ -421,7 +403,6 @@
       "filterable": 1,
       "ext": "https://notabug.org/zqk219/yingshicang/raw/master/TVBox_Py/py/py_中国文化.py"
     },
-   
     {
       "key": "csp_软件教程",
       "name": "🐞软件教程",
@@ -493,7 +474,6 @@
       "filterable": 1,
       "ext": "clan://TVBox/py/plugin/py_douyu.json"
     },
-
     {
       "key": "T4直播转点播",
       "name": "📺电视直播",
@@ -503,7 +483,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
     {
       "key": "py_bilivd",
       "name": "B站（PY）",
@@ -576,7 +555,6 @@
       "ext": "http://52bsj.vip:81/api/v3/file/get/73804/%E5%90%BE%E7%88%B1%E6%98%A5%E8%8A%82.json?sign=5HB6-KUN4rVZ9N-EV38XtGudwoIRWJQn8X2rwrwK4ys%3D%3A0",
       "spider": "http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
- 
     {
       "key": "户外",
       "name": "户外",
