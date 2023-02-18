@@ -43,34 +43,8 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_sp_快看影视",
-            "name": "推荐┃快看影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_sp_360影视",
-            "name": "官方┃360影视",
-            "api": "csp_SP360",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_sp_腾讯视频",
-            "name": "官方┃腾讯视频",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+      
+
         {
             "key": "csp_sp_哔嘀影视",
             "name": "爬虫┃哔嘀影视",
