@@ -1,3 +1,4 @@
+//公众号：放学回家看电视
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1  tvg-id="N/A" group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
 http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
