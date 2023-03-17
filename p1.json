@@ -25,15 +25,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "csp_CZSPP",
-			"name": "🍎备份源二",
-			"type": 3,
-			"api": "csp_Czsapp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
-		},
+	
 
 		{
 			"key": "快看",
@@ -128,26 +120,7 @@
 			"ext": "http://45.125.46.61/box/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
 		},
 	
-		{
-			"key": "csp_Alist",
-			"name": "🗂Alist",
-			"type": 3,
-			"api": "csp_Alist",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/Alist.json"
-		},
-		{
-			"key": "csp_xpath_kuqimv",
-			"name": "🎤经典MV",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E7%BB%8F%E5%85%B8MV.json"
-		},
+	
 		{
 			"key": "短视频聚合",
 			"name": "📱短视频聚合",
@@ -159,17 +132,6 @@
 			"ext": "http://45.125.46.61/box/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
 		},
 
-
-		{
-			"key": "csp_biubiu_骚火电影",
-			"name": "🔥骚火电影",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
-		},
 		
 			{
 			"key": "csp_biubiu_奇优影院ns",
