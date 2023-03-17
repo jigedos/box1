@@ -1,10 +1,10 @@
 //原动力群内私享
 //公众号：放学回家看电视
 0317更新,#genre#
-公号群私享,#genre#
-支持机哥,#genre#
-每日点击广告文,#genre#
-
+公号群私享,mitv://generationnexxxt.com:19806/664e430182de4508851164e7c51e3c2e
+必读信息,#genre#
+支持机哥,mitv://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268
+每日点击广告文,mitv://generationnexxxt.com:19806/bbbeadbcc5fd43a79d2b9ebbc91fc696
 
 大陆央视,#genre#
 CCTV1,mitv://generationnexxxt.com:19806/ea366c48243444d9b9c1056345d92974
