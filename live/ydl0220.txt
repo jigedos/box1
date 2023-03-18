@@ -672,3 +672,17 @@ EYE戏剧,mitv://generationnexxxt.com:19806/d95a1bbfe35f4b9ba69f50ce0d2e4618
 Hub娱家,mitv://generationnexxxt.com:19806/4488ebccc495473986b193dab33b7527
 亚洲剧台,mitv://generationnexxxt.com:19806/b3da19d3dcae4a069c396982020a1fe8
 
+ _6100,#genre#
+彩虹e台,mitv://generationnexxxt.com:19806/2a5b154749ab46eea144a4e0a103cae5
+彩虹电影台,mitv://generationnexxxt.com:19806/318295ce90604574a21320ae8b076450
+LOOK TV,mitv://generationnexxxt.com:19806/68e430cb813f400ab868521537373260
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/4944e264e72043a99f8d8287fe4aaeb5
+惊艳成人电影台,mitv://generationnexxxt.com:19806/aa0d60f30ec842f6b1c23b9b8a71a73b
+松视1台,mitv://generationnexxxt.com:19806/8e78c9edb8aa44a09a8bc670faa1423c
+松视2台,mitv://generationnexxxt.com:19806/9a09d912b23f4f17b604a9cc6899bdef
+PLAYBOY,mitv://generationnexxxt.com:19806/4deebdcb3307450689acd074dca6eb11
+香蕉台,mitv://generationnexxxt.com:19806/e4a6c5085305423f8585eafc6e5b4b06
+松视3台,mitv://generationnexxxt.com:19806/45810577b9ea40f8b98ddcb87ed459c7
+JStar极限台,mitv://generationnexxxt.com:19806/f05ed9c0b0db4acb834117168861b364
+HAPPY,mitv://generationnexxxt.com:19806/621bba9e74ba4b49be758c0208929195
+K,mitv://generationnexxxt.com:19806/59ead8b7585c475584ab90ce75389b35
