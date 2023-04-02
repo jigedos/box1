@@ -1602,7 +1602,7 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3
 CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 
-CC·深圳, #genre#
+CC·深圳,#genre#
 CCTV-1,http://218.17.216.102:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://218.17.216.102:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://218.17.216.102:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2023,7 +2023,7 @@ WS·爱尚,#genre#
 重庆卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 
-WS·深圳, #genre#
+WS·深圳,#genre#
 湖南卫视,http://218.17.216.102:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://218.17.216.102:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://218.17.216.102:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2059,7 +2059,7 @@ WS·深圳, #genre#
 风云音乐,http://218.17.216.102:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-央卫·江西, #genre#
+央卫·江西,#genre#
 CCTV-1综合,http://39.135.138.59:18890/TVOD/88888910/224/3221225642/index.m3u8
 CCTV-2财经,http://39.135.138.59:18890/TVOD/88888910/224/3221225643/index.m3u8
 CCTV-3综艺,http://39.135.138.59:18890/TVOD/88888910/224/3221225634/index.m3u8
@@ -2093,11 +2093,8 @@ CCTV-17农业农村,http://39.135.138.59:18890/TVOD/88888910/224/3221225909/inde
 浙江卫视 HD,http://39.135.138.59:18890/TVOD/88888910/224/3221225703/index.m3u8
 重庆卫视 HD,http://39.135.138.59:18890/TVOD/88888910/224/3221225692/index.m3u8
 
-CC·数字, #genre#
-
+CC·数字,#genre#
 风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
-
-
 CCTV世界地理,https://epg.pw/stream/2b5afde1f6e8bfb4299466adc88b2cec2381431d50131724f45ab7420c458fda.m3u8
 CCTV世界地理,https://epg.pw/stream/ae44ef2eee7e118968bff0d3b59889bc0845308a3be884d458e453c4f8743468.m3u8
 CCTV世界地理,https://epg.pw/stream/634441fb732383d489fb8326bd2ec01c372b5f1dc9bd77838690b30fa4736a5d.m3u8
@@ -2239,7 +2236,7 @@ CHC高清电影,https://epg.pw/stream/21fa14e9fef828bf41586ef9d4f1483d46331ea91f
 CHC高清电影,https://epg.pw/stream/66397e690c2a9e7100594725a2f6f5b6c541993bef0078a871ee9548c6c2a40c.m3u8
 
 
-轮播·iHOT, #genre#
+轮播·iHOT,#genre#
 爱谍战,http://39.135.126.226:6610/000000001001/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=2&channel-id=wasusyt
 爱动漫,http://39.135.126.226:6610/000000001001/6000000006000010630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=2&channel-id=wasusyt
 爱都市,http://39.135.126.226:6610/000000001001/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=2&channel-id=wasusyt
