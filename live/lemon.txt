@@ -2354,7 +2354,7 @@ WS·深圳,#genre#
 许氏三杰,http://aldirect.corp-hls.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.m3u8?wsiphost=ipdbme
 林青霞,http://aldirect.corp-hls.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.m3u8?wsiphost=ipdbme
 沈腾,http://aldirect.corp-hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.m3u8?wsiphost=ipdbme
-黄渤合,http://aldirect.corp-hls.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.m3u8?wsiphost=ipdbme
+黄渤,http://aldirect.corp-hls.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.m3u8?wsiphost=ipdbme
 李连杰,http://aldirect.corp-hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8?wsiphost=ipdbme
 洪金宝,http://aldirect.corp-hls.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8?wsiphost=ipdbme
 郭富城,http://aldirect.corp-hls.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.m3u8?wsiphost=ipdbme
@@ -2391,7 +2391,7 @@ WS·深圳,#genre#
 康熙微服私访,http://aldirect.corp-hls.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8?wsiphost=ipdbme
 铁齿铜牙纪晓岚,http://aldirect.corp-hls.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.m3u8?wsiphost=ipdbme
 喜剧电影,http://aldirect.corp-hls.huya.com/src/1423787843-1423787843-6115122222127382528-2847699142-10057-A-0-1.m3u8?wsiphost=ipdbme
-大秦帝国系列,http://aldirect.corp-hls.huya.com/src/1524439835-1524439835-6547419236044636160-3049003126-10057-A-0-1.m3u8?wsiphost=ipdbme
+大秦帝国,http://aldirect.corp-hls.huya.com/src/1524439835-1524439835-6547419236044636160-3049003126-10057-A-0-1.m3u8?wsiphost=ipdbme
 剧场2,http://aldirect.corp-hls.huya.com/src/1250011-1250011-5368756364640256-2789274540-10057-A-0-1.m3u8?wsiphost=ipdbme
 白眉大侠,http://aldirect.corp-hls.huya.com/src/1081939992-1081939992-4646896881874501632-2164003440-10057-A-0-1.m3u8?wsiphost=ipdbme
 倚天屠龙记(苏友朋版),http://aldirect.corp-hls.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.m3u8?wsiphost=ipdbme
@@ -3456,7 +3456,7 @@ K歌之王,https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1f56dde8-79e3-48f8-9aaf-2743
 唐伯虎点秋香,https://ukzy.ukubf4.com/20220407/wnsgZzX9/index.m3u8
 唐伯虎点秋香,https://v3.dious.cc/20220419/fgAtfUew/index.m3u8
 逃学威龙1,https://cdn.zoubuting.com/20220521/wR5EhxN3/index.m3u8
-逃学威龙,https://hnzy.bfvvs.com/play/YerYOWdO/index.m3u8
+逃学威龙1,https://hnzy.bfvvs.com/play/YerYOWdO/index.m3u8
 逃学威龙2,https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
 逃学威龙2,https://hnzy.bfvvs.com/play/Rb49MkdB/index.m3u8
 逃学威龙2,https://hnzy.bfvvs.com/play/PdymLgdQ/index.m3u8
@@ -3979,6 +3979,37 @@ TVB经典剑客与灵童,https://hxf1130.gzc.svp.tencent-cloud.com//0bc3fialgaaa
 陈真 19,https://50069.njc.svp.tencent-cloud.com/0bf2feaicaaamuaaf7bl7zpvakodqeuqbaia.f10002.mp4
 陈真 20,https://50069.njc.svp.tencent-cloud.com/0b78geaaeaaajmajs3jlqnpvamodaiyqaaqa.f10002.mp4
 
+点播·霍东阁,#genre#
+霍东阁01,https://cdn11.hdzyk-video.com/20221130/13661_e65cd898/1000k/hls/index.m3u8
+霍东阁02,https://cdn11.hdzyk-video.com/20221130/13662_b57457b4/1000k/hls/index.m3u8
+霍东阁03,https://cdn11.hdzyk-video.com/20221130/13663_6d53e027/1000k/hls/index.m3u8
+霍东阁04,https://cdn11.hdzyk-video.com/20221130/13664_ae8ec907/1000k/hls/index.m3u8
+霍东阁05,https://cdn11.hdzyk-video.com/20221130/13665_cbc6283a/1000k/hls/index.m3u8
+霍东阁06,https://cdn11.hdzyk-video.com/20221130/13664_ae8ec907/1000k/hls/index.m3u8
+霍东阁07,https://cdn11.hdzyk-video.com/20221130/13668_f2822ebc/1000k/hls/index.m3u8
+霍东阁08,https://cdn11.hdzyk-video.com/20221130/13667_73fcc0dc/1000k/hls/index.m3u8
+霍东阁09,https://cdn11.hdzyk-video.com/20221130/13670_62c81698/index.m3u8?sign=10e2517ddebb6b784ed35a41c9f34e22
+霍东阁10,https://cdn11.hdzyk-video.com/20221130/13669_572341a3/1000k/hls/index.m3u8
+霍东阁11,https://cdn11.hdzyk-video.com/20221130/13671_7e208e12/1000k/hls/index.m3u8
+霍东阁12,https://cdn11.hdzyk-video.com/20221130/13673_d4b1d850/index.m3u8?sign=62aa97b2ada38cfd59e1fd60ce957af1
+霍东阁13,https://cdn11.hdzyk-video.com/20221130/13672_08bc5c42/index.m3u8?sign=a364a9523a00dd92081c79bf130d7262
+霍东阁14,https://cdn11.hdzyk-video.com/20221130/13674_b00aa486/1000k/hls/index.m3u8
+霍东阁15,https://cdn11.hdzyk-video.com/20221130/13675_9362e177/index.m3u8?sign=26f7934a3119d71f6040e59492e8da57
+霍东阁16,https://cdn11.hdzyk-video.com/20221130/13676_20d742dd/1000k/hls/index.m3u8
+霍东阁17,https://cdn11.hdzyk-video.com/20221130/13677_a3830afe/index.m3u8?sign=5b12b37c509b0e8d8bd31c0a75a43348
+霍东阁18,https://cdn11.hdzyk-video.com/20221130/13679_0297287a/1000k/hls/index.m3u8
+霍东阁19,https://cdn11.hdzyk-video.com/20221130/13678_590bc1d4/1000k/hls/index.m3u8
+霍东阁20,https://cdn11.hdzyk-video.com/20221130/13680_ec9e8a15/1000k/hls/index.m3u8
+霍东阁21,https://cdn11.hdzyk-video.com/20221130/13682_d60f10c8/1000k/hls/index.m3u8
+霍东阁22,https://cdn11.hdzyk-video.com/20221130/13681_714d9f43/1000k/hls/index.m3u8
+霍东阁23,https://cdn11.hdzyk-video.com/20221130/13683_936820d4/1000k/hls/index.m3u8
+霍东阁24,https://cdn11.hdzyk-video.com/20221130/13684_82f3771a/1000k/hls/index.m3u8
+霍东阁25,https://cdn11.hdzyk-video.com/20221130/13685_3afc0cc2/1000k/hls/index.m3u8
+霍东阁26,https://cdn11.hdzyk-video.com/20221130/13686_f575318d/1000k/hls/index.m3u8
+霍东阁27,https://cdn11.hdzyk-video.com/20221130/13687_b71562a0/1000k/hls/index.m3u8
+霍东阁28,https://cdn11.hdzyk-video.com/20221130/13688_d90a93ba/1000k/hls/index.m3u8
+霍东阁29,https://cdn11.hdzyk-video.com/20221130/13689_8e42720f/1000k/hls/index.m3u8
+霍东阁30,https://cdn11.hdzyk-video.com/20221130/13690_01e35a88/1000k/hls/index.m3u8
 
 
 
@@ -4130,7 +4161,20 @@ Hub娱家,mitv://generationnexxxt.com:19806/4488ebccc495473986b193dab33b7527
 Star Movies Gold,mitv://generationnexxxt.com:19806/eed82c74928f497080ecffdd16b59623
 纬来育乐台,mitv://generationnexxxt.com:19806/5733ed9a251e4ea7b9b7414cbbc41379
 
+
+电影大片,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8?key
+温情影院,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_113_600_t10/c51_lb_113_600_t10.m3u8?key
+惊悚午夜,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8?key
+粤语原声,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_185_600_t10/c56_lb_185_600_t10.m3u8?key
+动画电影,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key
+历史秘闻,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8?key
+
+
+
+
 影视·Globo,#genre#
+Lifetime,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
+MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 tvN Movies HD,mitv://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
 HBO,mitv://generationnexxxt.com:19806/2b8e0f4e06264ee8914bb4616669411e
 AXN,mitv://generationnexxxt.com:19806/ca535eda852d4225922214a23656dc71
@@ -4217,6 +4261,11 @@ WWE,mitv://generationnexxxt.com:19806/157d295b0933470ab2c880d58a7f14ce
 纬来育乐台,mitv://generationnexxxt.com:19806/5733ed9a251e4ea7b9b7414cbbc41379
 纬来体育台,mitv://generationnexxxt.com:19806/cfe7149c529f4e449e1aa1dc27eb1bc2
 ELEVEN体育1台,mitv://generationnexxxt.com:19806/c098b9305dcb49fa9fa3042f977c7ad7
+ELEVEN体育1,rtmp://119.81.124.89/sat/tv731
+ELEVEN体育2,rtmp://119.81.124.89/sat/tv741
+Trace sport,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+爱达体育台,rtmp://119.81.124.89/sat/md031.flv
+爱达体育1台,rtmp://119.81.124.89/sat/md051
 
 体育·Globo,#genre#
 Z频道,mitv://generationnexxxt.com:19806/41d8f2ded4a14c019e1a06adfcb7259c
@@ -4923,6 +4972,11 @@ CCTV9,mitv://generationnexxxt.com:19806/5f684b66c63e4e13a64d397bdcfc6080
 国家地理频道,mitv://generationnexxxt.com:19806/1b1f8ec66dc544ec821769097fa5306d
 探索频道,mitv://generationnexxxt.com:19806/68bda999f56b477ca00f2b25b98127ff
 TLC旅游生活,mitv://generationnexxxt.com:19806/f90ee29629994e3d9086b1f80c3b6979
+GlobalTrekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
+Rollor,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
+Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+爱尔达生活旅游,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+
 动物星球,mitv://generationnexxxt.com:19806/e62bbeb1ff7f411e8276d7e6d798121d
 Nat Geo Wild,mitv://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b
 ELTV生活英语台,mitv://generationnexxxt.com:19806/a61055e80c7342b582ac4f2115f59a21
@@ -5073,10 +5127,14 @@ CCTV14,mitv://generationnexxxt.com:19806/85745f450c384b1e9a8b632423828e4f
 英文歌,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c55_lb_128_600_t10/c55_lb_128_600_t10.m3u8?key
 
 少儿·Globo,#genre#
+
+GINX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+ABC互动英语,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
 卡通频道,mitv://generationnexxxt.com:19806/96e4992ec1f74491bc997bc076d01513
 星空卫视,mitv://generationnexxxt.com:19806/940e43349642479a843d8b9bc53c47d3
 动漫秀场,mitv://generationnexxxt.com:19806/606e6f2ed605464398838a28a8eedcca
 MOMO亲子台,mitv://generationnexxxt.com:19806/b90246990ef64289bd968f96bea74856
+MOMO综合,rtmp://119.81.124.89/sat//tv761
 Astro小太阳,mitv://generationnexxxt.com:19806/783861d0aade442c87f4e0dafaf6eb2a
 Astro Ceria,mitv://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c
 Cartoon Network,mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6
@@ -5866,6 +5924,37 @@ TV2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/liv
 
 
 省内_6100,#genre#
+TVBS欢乐台,rtmp://119.81.124.89/sat/tv421
+TVBS新闻台,rtmp://119.81.124.89/sat/tv551
+TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
+东森财经台,rtmp://119.81.124.89/sat/tv571
+东森超视台,rtmp://119.81.124.89/sat/tv331
+MOMO综合,rtmp://119.81.124.89/sat//tv761
+TVBS欢乐台,rtmp://119.81.124.89/sat/tv421
+TVBS新闻台,rtmp://119.81.124.89/sat/tv551
+华视,rtmp://119.81.124.89/sat/tv111
+民视,rtmp://119.81.124.89/sat/tv051
+民视第一台,rtmp://119.81.124.89/sat/md021
+台视,rtmp://119.81.124.89/sat/tv071
+纬来精彩台,rtmp://119.81.124.89/sat/md041
+纬来日本台,rtmp://119.81.124.89/sat/tv771
+纬来体育台,rtmp://119.81.124.89/sat/tv721
+纬来育乐台,rtmp://119.81.124.89/sat/tv701
+中视,rtmp://119.81.124.89/sat/tv091
+纬来体育,http://123.51.230.108:18509/.m3u8
+龙华戏剧,http://123.51.230.108:18513/.m3u8
+东森财经,http://123.51.230.108:18515/.m3u8
+东森戏剧,http://123.51.230.108:18538/.m3u8
+八大第一,http://123.51.230.108:18539/.m3u8
+纬来综合,http://123.51.230.108:18540/.m3u8
+纬来育乐,http://123.51.230.108:18541/.m3u8
+台视,http://123.51.230.108:18543/.m3u8
+龙华日韩,http://123.51.230.108:18551/.m3u8
+东风37,http://123.51.230.108:18560/.m3u8
+人间卫视,http://123.51.230.108:18561/.m3u8
+大爱,http://123.51.230.108:18567/.m3u8
+民视新闻,http://123.51.230.108:18663/.m3u8
+
 CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 民视,mitv://generationnexxxt.com:19806/40c260a6af2241b2a42f80dc9b8e17f7
 人间卫视,mitv://generationnexxxt.com:19806/366b657578a7468fa7a93dff507aaa59
