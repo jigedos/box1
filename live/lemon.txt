@@ -4123,7 +4123,7 @@ HBO+,http://15.235.10.31:14410
 HBO+,http://15.235.10.31:14411
 
 
-影视·国内,#genre#
+影视·国内_6100,#genre#
 CCTV6,mitv://generationnexxxt.com:19806/fabe340b1cc94bc8a42db4844fb7e497
 天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
 天映经典,mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
