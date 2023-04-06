@@ -21,72 +21,7 @@
     }
   ],
   "sites": [
-         {
-            "key": "ks",
-            "name": "🌈快速启动(按菜单键选择站点)",
-            "api": "csp_SP360",
-            "type": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "searchable": 0
-      },
-         {
-      "key": "百度",
-      "name": "🍁百度",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "大陆剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
-    },
-     
-     {
-            "key": "csp_新视觉",
-            "name": "🍁新视觉",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-	    "jar":"http://101.34.67.237/files/新视觉.jar"
-        },
-       
-
-    {
-      "key": "csp_xpath_789kp",
-      "name": "🎗️数字影院",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/789ba.json"
-    },
-
-    {
-      "key": "csp_xBPQ_真不卡",
-      "name": "🚀真不卡XB",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/真不卡.json"
-    },
+      
  
     {
       "key": "小苹果",
@@ -99,7 +34,7 @@
     },
     {
       "key": "搭配",
-      "name": "💃多多搭配",
+      "name": "💃穿着搭配",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -108,15 +43,7 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/duodapei.json"
     },
    
-    {
-      "key": "csp_CZSPP",
-      "name": "🏭厂长(SP)",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ 
  
     {
       "key": "csp_biubiu_骚火电影",
@@ -130,16 +57,6 @@
     },
 
  
-    {
-      "key": "csp_Bttoo",
-      "name": "✌两个BT",
-      "type": 3,
-      "api": "csp_Bttoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
   
     {
       "key": "csp_XYQBiu_310直播",
