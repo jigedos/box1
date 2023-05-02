@@ -5,7 +5,8 @@
 //最新精修接口，请关注公众号：【放学回家看电视】
 
 {"sites": [
-{"key":"js_豆瓣热播","name":"🏘️JG整理┃豆瓣推荐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/豆瓣.js"},
+  	{"key":"csp_77","name":"👒 JG整理┃纯净版","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"js_豆瓣热播","name":"🏘️J豆瓣推荐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/豆瓣.js"},
 {"key":"Sp_cj","name":"👑影视┃速优","type": 1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]},
 {"key":"AP_xl","name":"🥏速腾┃勿信广告","type":1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["大陆剧","港澳剧","台湾剧","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","欧美剧","动漫电影","韩剧","日剧","泰剧"] },
 {"key":"Sp_Bi","name":"🅱️哔哔┃健身","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/哔哩合集T2.php"},
