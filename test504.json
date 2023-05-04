@@ -175,7 +175,7 @@
 		"changeable": 1,
 		"ext": "https://dadou.pro/vodshow/{cateId}--------{catePg}---.html"
 	}, {
-		"key": "csp_Libvio",
+		"key": "csp_mayi",
 		"name": "快速┃mayi影视",
 		"type": 3,
 		"api": "csp_XBiu",
@@ -187,18 +187,7 @@
 	}, 
 
 {
-		"key": "csp_Libvio",
-		"name": "快速┃mayi影视",
-		"type": 3,
-		"api": "csp_XBiu",
-		"playerType": 2,
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 1,
-		"ext": "https://www.mayiyahu.com/s/{cateId}/page/{catePg}.html"
-	}, 
-{
-		"key": "csp_Libvio",
+		"key": "csp_q6qq",
 		"name": "快速┃影视之家",
 		"type": 3,
 		"api": "csp_XBiu",
