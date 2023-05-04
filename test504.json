@@ -176,7 +176,7 @@
 		"ext": "https://dadou.pro/vodshow/{cateId}--------{catePg}---.html"
 	}, {
 		"key": "csp_mayi",
-		"name": "快速┃mayi影视",
+		"name": "快速┃a-mayi影视",
 		"type": 3,
 		"api": "csp_XBiu",
 		"playerType": 2,
@@ -188,7 +188,7 @@
 
 {
 		"key": "csp_q6qq",
-		"name": "快速┃影视之家",
+		"name": "快速┃a-影视之家",
 		"type": 3,
 		"api": "csp_XBiu",
 		"playerType": 2,
