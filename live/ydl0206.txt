@@ -58,6 +58,7 @@ HKC体育台,mitv://generationnexxxt.com:19806/edd0e12a6a464363a6bf754f4ecc0b99
 TVB经典台,mitv://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268
 TVB星河(粤),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
+
 功夫台,mitv://generationnexxxt.com:19806/9b42b669a2c549abbfc8f0320197dc12
 功夫台(华语),mitv://generationnexxxt.com:19806/9b42b669a2c549abbfc8f0320197dc12
 J2,mitv://generationnexxxt.com:19806/c4df08a1f2914a8da93691bfc04bb3ef
